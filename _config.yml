@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hynsk Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "hynsk.lee"
+  location         : "Seoul, Korea"
   email            :
   links:
     - label: "Email"
@@ -158,7 +158,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _post
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
